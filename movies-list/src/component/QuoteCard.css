@@ -1,0 +1,33 @@
+.main-div{
+    display: flex;
+    gap: 2rem;
+    padding: 10px;
+
+    
+    
+}
+.div{
+    background-color: rgba(131, 80, 180, 0.701);
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.img>img{
+    height: 150px;
+}
+.text-area>h2{
+font-size: 30px;
+margin: 10px 0px;
+}
+.container{
+    padding:30px 100px ;
+    
+}
+.par{
+    width: 70%;
+}
+.right-img>img{
+    height: 100%;
+    width: 500px;
+}
